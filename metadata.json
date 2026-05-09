@@ -5,6 +5,8 @@
   "summary": "Manage dnscrypt-proxy service",
   "license": "Apache-2.0",
   "source": "https://github.com/anders-larsson/puppet-dnscrypt_proxy",
+  "project_page": "https://github.com/anders-larsson/puppet-dnscrypt_proxy",
+  "issues_url": "https://github.com/anders-larsson/puppet-dnscrypt_proxy/issues",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
