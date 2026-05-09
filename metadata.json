@@ -1,5 +1,5 @@
 {
-  "name": "puppet-dnscrypt_proxy",
+  "name": "anderslarsson-dnscrypt_proxy",
   "version": "0.1.0",
   "author": "Anders Larsson",
   "summary": "Manage dnscrypt-proxy service",
