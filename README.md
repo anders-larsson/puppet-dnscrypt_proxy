@@ -39,7 +39,7 @@ class { 'dnscrypt-proxy':
 ```
 or in hiera
 ```yaml
-dnscrypt_proxy::servers:
+dnscrypt_proxy::server_names:
   - google
   - cloudflware
 ```
